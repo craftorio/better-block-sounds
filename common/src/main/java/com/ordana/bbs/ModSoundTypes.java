@@ -39,7 +39,10 @@ public class ModSoundTypes {
                     "gold_ore",
                     "emerald_ore",
                     "diamond_ore",
-                    "redstone_ore" -> {
+                    "redstone_ore",
+                    "lead_ore",
+                    "tin_ore",
+                    "uranium_ore" -> {
                 return STONE_ORE;
             }
             case "raw_copper_block",
